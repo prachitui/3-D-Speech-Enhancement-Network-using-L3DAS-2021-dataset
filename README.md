@@ -9,3 +9,11 @@ accuracy for the enhanced speech.
 
 
 For more information about the model visit: https://ieeexplore.ieee.org/document/9003849
+
+# Results-
+Comparison of the clean speech, noisy speech, and enhanced speech in the time domain, as spectrograms, and as mel spectrograms.
+![screenshot](1.JPG)
+
+![screenshot](2.JPG)
+
+![screenshot](3.JPG)
